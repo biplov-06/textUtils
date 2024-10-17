@@ -1,6 +1,6 @@
 {
-  "homepage": "https://biplov-06.github.io/",
-  "name": "text-utility",
+  "homepage": "https://biplov-06.github.io/textutils",
+  "name": "textutils",
   "private": true,
   "version": "0.0.0",
   "type": "module",
