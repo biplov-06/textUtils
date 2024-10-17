@@ -9,7 +9,7 @@ function App() {
   return (
     <>
     <div className="my-5">
-    <Router basename="/textutils"> {/* Add basename here */}
+    <Router basename="/textutils"> 
       <NavBar title="Text Utils" />
       <Routes>
       <Route path="/" element={<Tool />} />
